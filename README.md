@@ -1,6 +1,6 @@
 
 ![](https://img.shields.io/badge/Foundry-v11.315-informational)
-## Fel Dices
+## Fel Dice Set
 
 * **Author**: JavierJ-TC
 * **Version**: 1.0.0
